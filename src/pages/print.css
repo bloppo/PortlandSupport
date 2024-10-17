@@ -1,0 +1,15 @@
+@media print {
+    @page {
+        size: landscape
+    }
+}
+@media print {
+    table {
+        font-size : 10pt
+    }
+}
+@media print {
+    h2 {
+        font-size : 10pt
+    }
+}
